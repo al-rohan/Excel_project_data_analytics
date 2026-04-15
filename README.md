@@ -5,8 +5,22 @@ This repository is a collection of my data analysis and visualization work using
 
 ## 📂 Project Directory  
 
-01. Bike Sales Dashboard  
+**01. Bike Sales Dashboard**  
    - Source: Inspired by Alex the Analyst, but customized with unique chart types and a personalized color palette.
    - Focus: Dashboard, Pivot Table, Pivot Chart and interactive slicers.
    - Dataset: 1,000+ rows of customer purchase data.
+### [Checkout my work here: Project-1](Project-1-Sales-Dashboard)   
 
+
+**02. Data Science Salary Calculator Dashboard**  
+  - Source: Developed following Luke Barousse's methodology.
+  - Focus: Building a dynamic user-facing tool using advanced formulas, pivot-driven logic, and interactive slicers for instant salary estimation.  
+  - Dataset: 32,000+ rows of data jobs salary.  
+### [Checkout my work here: Project-2](Project-2-Salary-Dashboard)   
+
+
+**03. Data Science Salary Analysis**  
+  - Source: Advanced analysis based on the Luke Barousse dataset.
+  -  Focus: Implementing a full-scale ETL using Power Query and DAX to build a relational Data Model for deep-dive Data jobs salary Analysis.
+  -  Dataset: 32,000+ rows of data jobs salary.
+### [Checkout my work here: Project-3](Project-3-Salary-Analysis)  
