@@ -5,7 +5,8 @@ This repository is a collection of my data analysis and visualization work using
 
 ## 📂 Project Directory  
 
-01. Bike Sales Dashboard
+01. Bike Sales Dashboard  
    - Source: Inspired by Alex the Analyst, but customized with unique chart types and a personalized color palette.
    - Focus: Dashboard, Pivot Table, Pivot Chart and interactive slicers.
-   - Dataset: 1,000+ rows of customer purchase data.  
+   - Dataset: 1,000+ rows of customer purchase data.
+
