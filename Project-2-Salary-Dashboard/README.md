@@ -8,5 +8,5 @@ I developed this interactive Salary Calculator to promote market transparency wi
 
 ## Dashboard File  
 
-My final dashboard is in 
+My final dashboard is in [Data_Science_Salary_Calculator_Dashboard_Project.xlsx](Data_Science_Salary_Calculator_Dashboard_Project.xlsx) 
 
