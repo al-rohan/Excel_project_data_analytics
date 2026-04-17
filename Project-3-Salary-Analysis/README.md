@@ -4,6 +4,10 @@
 
 Building on my mission to provide market transparency, this project dives deep into the high-paying skills and regional trends of the Data Science industry. By moving beyond standard spreadsheets, I utilized an ETL (Extract, Transform, Load) workflow to analyze 32,000+ records, identifying exactly which technical proficiencies lead to the highest compensation in today's market.  
 
+## Project File  
+
+My final project is in [Data_Science_Salary_Analysis_Project.xlsx](Data_Science_Salary_Analysis_Project.xlsx)
+
 ## Questions to Analyze  
 To understand the data science job market, I asked the following:  
 
